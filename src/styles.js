@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     }
     ,
     btnLogin: { width: 200, borderRadius: 20, paddingVertical: 10, backgroundColor: '#448AFF' },
-    touchbtn: { textAlign: 'center', marginTop: 10, backgroundColor: '#000', width: 100, height: 40, borderColor: '#000', borderRadius: 20, borderWidth: 1 },
+    touchbtn: { textAlign: 'center', marginTop: 10, backgroundColor: '#000', width: 150, height: 40, borderColor: '#000', borderRadius: 20, borderWidth: 1 },
     itemflat: { flex: 1, height: 113, borderColor: '#000', borderWidth: 2, marginTop: 2 },
 
 })
