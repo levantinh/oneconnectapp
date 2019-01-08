@@ -14,5 +14,26 @@ const styles = StyleSheet.create({
   touchbtn:{textAlign:'center'},
   itemflat:{flex:1, height:113, borderColor:'#000', borderWidth:2,marginTop:2},
 
+  logo:{
+    width: 130,
+    height: 130,
+    backgroundColor:'#720E0E'
+  },
+  textInpu:{
+    width:340,
+    height:40,
+    borderColor:'gray',
+    borderWidth:1,
+    borderRadius:5,
+    marginTop:5
+  },
+  confimPass:{
+    width: 200,
+    height:50,
+    backgroundColor:'#720E0E',
+    
+
+  }
+
 })
 module.exports = styles;
