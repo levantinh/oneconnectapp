@@ -46,10 +46,11 @@ const styles = StyleSheet.create({
     marginTop:5
   },
   confimPass:{
+    marginTop:10,
     width: 200,
     height:50,
     backgroundColor:'#720E0E',
-    
+    borderRadius:10,
 
   }
 
